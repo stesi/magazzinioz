@@ -23,3 +23,8 @@
 	url = git@github.com:OCA/partner-contact.git
 	branch = 14.0
 
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 14.0
