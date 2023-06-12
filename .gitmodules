@@ -28,3 +28,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 14.0
+
+[submodule "ingegniamo/l10n_it_fatturapa_out_one_file_per_move"]
+	path = ingegniamo/l10n_it_fatturapa_out_one_file_per_move
+	url = git@github.com:ingegniamo/l10n_it_fatturapa_out_one_file_per_move.git
+	branch = 14.0
