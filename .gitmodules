@@ -33,3 +33,8 @@
 	path = ingegniamo/l10n_it_fatturapa_out_one_file_per_move
 	url = git@github.com:ingegniamo/l10n_it_fatturapa_out_one_file_per_move.git
 	branch = 14.0
+
+[submodule "ingegniamo/website_google_analytics_4"]
+	path = ingegniamo/website_google_analytics_4
+	url = git@github.com:ingegniamo/website_google_analytics_4.git
+	branch = 14.0
