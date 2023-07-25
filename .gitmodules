@@ -38,3 +38,8 @@
 	path = ingegniamo/website_google_analytics_4
 	url = git@github.com:ingegniamo/website_google_analytics_4.git
 	branch = 14.0
+
+[submodule "ingegniamo/magazzini_custom"]
+	path = ingegniamo/magazzini_custom
+	url = git@github.com:ingegniamo/magazzini_custom.git
+	branch = 14.0
