@@ -43,3 +43,8 @@
 	path = ingegniamo/magazzini_custom
 	url = git@github.com:ingegniamo/magazzini_custom.git
 	branch = 14.0
+
+[submodule "ingegniamo/point_of_sale_default_code_on_product"]
+	path = ingegniamo/point_of_sale_default_code_on_product
+	url = git@github.com:ingegniamo/point_of_sale_default_code_on_product.git
+	branch = 14.0
